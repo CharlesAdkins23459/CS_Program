@@ -1,26 +1,26 @@
 # CS_Program
 Portfolio
 
-Summarize the project and what problem it was solving.
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The Corner Grocer needed a program that analyzed the text records they generated throughout the day, which lists items purchased in chronological order from the time the store opened to the time it closed.  This program would be used to help them arrange the produce section based upon how often items are purchased, which will assist their customers by having those items in stock on a more regular basis and in a more accessible fashion.
+The Gaming Room and their software requirements included a game application, Draw It or Lose IT, that they wanted to distribute amongst the various operating systems to expand their availability to all kinds of players who use all the platforms.  The game involved teams that competed to guess the image being drawn.  The game requirements included storing all game-used images, gameplay round and timer functionality and maintaing memory of teams, users and gameplay details.
 
-What did you do particularly well?
+What did you do particularly well in developing this documentation?
 
-The organization of the code is laid out in a manner that is easy for other users/contributors can understand its functionality and make any future changes that the business may request or need.
+The applications documentation outlined the details of the design and development of the application in such a way that other teams could repeat the process, if they needed to perform the same actions for a new game in the future.  This would greatly increase the efficiency in application development and deployment.
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+What about the process of working through a design document did you find helpful when developing the code?
 
-The code could be enhance to ensure that it is accurate for every use-case and edge-case that it may encounter based upon the purchase behaviors across time.  If the program is ineffective across time, it can’t help the business improve adequately. 
+The design document helped me understand what steps I was taking next, based upon the previously completed steps.  It outlined how the actions played into the requirements of the next development phase.
 
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-Utilizing both C++ and Python was difficult as their format and syntax are drastically different.  Utilizing the help of my peers, outside resources and tutoring streamlined the process and helped me develop a decently polished deliverable.
+Logging and tracking issues throughout the development process would be helpful to not only myself, but others, when developing other applications in the future, because it would streamline the process of identifying potential issues and the mitigation efforts required to resolve them in a timely manner.
 
-What skills from this project will be particularly transferable to other projects or course work?
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-Understanding the basics of combining two languages will be incredibly helpful in the future, should I ever need to build a complex program again, as I most certainly will.  The flexibility of that skill will help me bridge the gaps where one language may not have an easy way to approach a specific business/program requirement.
+Keeping the user in mind during the design and development of the application was crucial to its success because the user is the final evaluator of the application and its ability to deliver the service it promises.  Understanding what they need and how they will interact with the application provides me, the developer, with the necessary guidelines that help me focus on the most important features and capabilities of the application.
 
-How did you make this program maintainable, readable, and adaptable?
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-The comments will help contributors understand what each section does and the logic contained within each step of the program. Should they need to make edits, they’ll be able to easily understand where to update the code.
+Gathering requirements, analyzing the current state of the application/system, documenting the transition efforts required and migrating current functionality with new functionality all help the design and development phases of the project and can be repeated for similar applications in the future.
