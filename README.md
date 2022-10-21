@@ -1,26 +1,24 @@
-# CS_Program
+CS Program - CS 255
 Portfolio
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design? 
 
-The Gaming Room and their software requirements included a game application, Draw It or Lose IT, that they wanted to distribute amongst the various operating systems to expand their availability to all kinds of players who use all the platforms.  The game involved teams that competed to guess the image being drawn.  The game requirements included storing all game-used images, gameplay round and timer functionality and maintaing memory of teams, users and gameplay details.
+The client was a company called DriverPass who was aiming to create resource to help students pass their driving exams. They wanted to design a system that provided its users with access to various types of learning material and content. The users would also be able to schedule in-person training and driving lessons with certified drivers. This system provided one location for all their learning content, training scheduling and testing results and progress.
 
-What did you do particularly well in developing this documentation?
 
-The applications documentation outlined the details of the design and development of the application in such a way that other teams could repeat the process, if they needed to perform the same actions for a new game in the future.  This would greatly increase the efficiency in application development and deployment.
+What did you do particularly well? 
 
-What about the process of working through a design document did you find helpful when developing the code?
+I believe that I addressed the concerns and requirements of the client well. I took the DriverPass transcript and ensured that every requirement and need from the client was taken into consideration during the design and development of the system architecture. I believe I also consider several use cases and processes that the various users might encounter with the system.
 
-The design document helped me understand what steps I was taking next, based upon the previously completed steps.  It outlined how the actions played into the requirements of the next development phase.
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would consider looking more into my the process administrators might take for updating the system content when the DMV issues updates or policy/requirement changes.  The approach I took was too high-level and did not consier all the possible steps required to do so.
 
-Logging and tracking issues throughout the development process would be helpful to not only myself, but others, when developing other applications in the future, because it would streamline the process of identifying potential issues and the mitigation efforts required to resolve them in a timely manner.
 
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? 
 
-Keeping the user in mind during the design and development of the application was crucial to its success because the user is the final evaluator of the application and its ability to deliver the service it promises.  Understanding what they need and how they will interact with the application provides me, the developer, with the necessary guidelines that help me focus on the most important features and capabilities of the application.
+I carefully read through the interview transcript several times and took notes.  This helped me identify important aspects of the clients needs and requirements and referred back to my notes throughout the design and development phases.  The functionality requirements communicated by the client was one of the most important aspects of this project - the system had to do what they wanted.  Additionally, I always kept the reason in mind as well, "Why they wanted the system and what they hoped it would do".  This helped me keep the users/students in mind and ensure that the functionality and design aspects of the project created an environment that helped them reach their goals of passing their tests and making it an enjoyable process.
 
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? 
 
-Gathering requirements, analyzing the current state of the application/system, documenting the transition efforts required and migrating current functionality with new functionality all help the design and development phases of the project and can be repeated for similar applications in the future.
+When developing software, it's important to understand the clients needs, desires, goals and the limitations of such.  Consistently checking in with them and verifying and consulting the progress ensures that you're still on track and that you've interpreted their needs accurately.  It's a lengthy process, but it must be taken with care and precision.
